@@ -1,5 +1,5 @@
  {
-    "name": "",
+    "name": "kvast",
     "version": "0.0.0",
     "description": "",
     "main": "index.html",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vensky/"
+        "url": "git+https://github.com/vensky/kvast.git"
     },
     "author": "vensky",
     "license": "ISC",
